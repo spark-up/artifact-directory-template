@@ -1,5 +1,8 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Heterodyne!
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The introduction of the ML Data Prep Zoo from the ADA lab at UCSD has led to the creation of AutoML feature type inference. 
+Using an ML-based approach, standard ML models are built and trained on a labeled benchmark dataset that is able to predict 
+feature types from columns with reasonable accuracy. To prepare this for industry use, we have addressed the scalability "issue" 
+in this approach using PySpark. 
