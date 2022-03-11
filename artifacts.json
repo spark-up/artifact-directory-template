@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/emanirasith/heterodyne",
+    "project-repository": "https://github.com/spark-up/dsc180",
     "dockerhub-repository": "jupyter/pyspark-notebook:ubuntu-20.04",
-    "project-website-url": "https://emanirasith.github.io/",
-    "project-website-code": "https://github.com/emanirasith/emanirasith.github.io"
+    "project-website-url": "https://spark-up.github.io/",
+    "project-website-code": "https://github.com/spark-up/spark-up.github.io"
 }
