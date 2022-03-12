@@ -1,5 +1,5 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
+    "this-repository": "https://github.com/spark-up/artifact-directory-template",
     "project-repository": "https://github.com/spark-up/dsc180",
     "dockerhub-repository": "jupyter/pyspark-notebook:ubuntu-20.04",
     "project-website-url": "https://spark-up.github.io/",
